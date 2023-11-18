@@ -1,11 +1,3 @@
-import { CategorySchema } from './category-schema';
-import { GalleryImageSchema } from './gallery-image-schema';
-import { ProductSchema } from './product-schema';
-import { FeaturedProductsAndCategories } from './top-categories-schema';
-
-export const schemaTypes = [
-  CategorySchema,
-  GalleryImageSchema,
-  ProductSchema,
-  FeaturedProductsAndCategories,
-];
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb9d051ad86c59ca047788985ec9db1818b2db61b8d49038f67837e438c8bded
+size 433
